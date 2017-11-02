@@ -1,0 +1,60 @@
+   .intro {
+      color:white;
+        background-color:lightgrey;
+      font-family:courier;
+      text-align:left;
+      width:75%;
+      background-color:grey;
+      padding:10px;
+      border:10px double pink;
+      
+    }
+    p{
+      background-color:lightpink;
+        width:25%;
+        font-family:courier;
+       margin:50px 0px 5px;
+       padding:10px;
+       border:10px dashed white;
+      
+    }
+    
+    div{
+      color:blue;
+      margin:50px 0px 5px;
+      background-color:white;
+      padding:10px;
+      border:10px dotted black;
+  
+  
+
+    }
+    
+    .header {
+      color:purple;
+      font-size:150px;
+      font-family:Edwardian Script ITC;
+       margin:50px 0px 5px;
+      background-color:white;
+      padding:10px;
+      border:10px solid yellow;
+    }
+    body {
+      background-color:grey;
+      text-align:center;
+ 
+    }
+    .content{
+      margin: 0 auto;
+      text-align:center;
+      background-color:white;
+      width:80%;
+      height:550px;
+      font-size:15px
+    }
+    .image {
+      width:125px;
+  padding:10px;
+  border:10px dashed white;
+           
+    }
