@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+  <div class="content">
+    
+  <div class="header"><strong>About</div><hr>
+  <div class="topnav" id="mytopnav" style="width:100%">
+  <a href="home.html" style="width:25%">Home</a>
+  <a href="products.html"style="width:25%">Bouquets</a>
+  <a href="about.html" style="width:25%; background-color: white;
+    color: black">About</a>
+  <a href="contact.html" style="width:25%">Contact Us</a><br><br><br><hr>
+    </div>
+    <br><img src="http://www.ftdflorists.com/Content/img/home-img2.jpg" width=450px>
+   
+ <p>
+  I love flowers, but I wish people knew more about the different colorful options of just roses.<br>
+   That's why we have recently changed 
+   our policy and stopped carrying roses.<br>
+   We want to encourage people to try different flowers. <br>
+   So there will be no roses in any of our bouquets.
+  </strong>
+   </p>
+    </div>
+</body>
+</html>
