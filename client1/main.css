@@ -37,11 +37,17 @@
     #pic{
       border: 2px solid black;
       max-width: 300px;
+      width:30%;
       margin:2px;
       float:left;
+      
  
       
     }
+img {
+  width: 100%;
+  max-width: 500px;
+}
     #pic:hover {
       border: 2px solid grey;
     }
