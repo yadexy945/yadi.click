@@ -1,17 +1,16 @@
    .header{
       text-align:center;
-      color:black;
       font-size:75px;
+      color:black;
       font-family: Edwardian Script ITC;
-    }
+     
+      
+    } 
     body{
-      background-color: #dda0dd;
-      text-align:center;
+      background:#dda0dd;
+      
     }
-    p{
-      font-size:20px;
-    }
-      .topnav {
+  .topnav {
     background-color: #dda0dd;
     overflow: hidden;
 }
@@ -35,9 +34,26 @@
     background-color: white;
     color: black;
     }
-    .content{
-      background-color:white;
+    #pic{
+      border: 2px solid black;
+      max-width: 300px;
+      margin:2px;
+      float:left;
+ 
+      
+    }
+    #pic:hover {
+      border: 2px solid grey;
+    }
+    p{
+      font-size:20px;
+    }
+    div{
+      text-align:center;
+    }
+.content{
+     background-color:#dda0dd;
       width:90%;
       max-width:1000px;
       margin:auto;
-    }
+}
