@@ -37,12 +37,9 @@
     #pic{
       border: 2px solid black;
       max-width: 300px;
-      width:30%;
+      width:35%;
       margin:2px;
-      float:left;
-      
- 
-      
+      float:left; 
     }
 img {
   width: 100%;
@@ -53,6 +50,7 @@ img {
     }
     p{
       font-size:20px;
+      border: 1px solid white
     }
     div{
       text-align:center;
