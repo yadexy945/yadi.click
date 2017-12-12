@@ -1,0 +1,69 @@
+   .header{
+      text-align:center;
+      font-size:75px;
+      color:black;
+      font-family: Edwardian Script ITC;
+     
+      
+    } 
+    body{
+      background:#dda0dd;
+      font-family: times new roman;
+      color: black;
+      
+      
+    }
+  .topnav {
+    background-color: #dda0dd;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 14px 0px;
+}
+
+.topnav a:hover {
+    background-color: white;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: white;
+    color: black;
+    }
+    #pic{
+      border: 2px solid black;
+      max-width: 300px;
+      width:35%;
+      margin:2px;
+      float:left;
+      
+ 
+      
+    }
+img {
+  width: 100%;
+  max-width: 500px;
+}
+    #pic:hover {
+      border: 2px solid grey;
+    }
+    p{
+      font-size:20px;
+      border: 1px solid white;
+    }
+    div{
+      text-align:center;
+    }
+.content{
+     background-color:#dda0dd;
+      width:90%;
+      max-width:1000px;
+      margin:auto;
+}
