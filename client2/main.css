@@ -9,8 +9,8 @@
     body{
       background:#dda0dd;
       font-family: times new roman;
+      font-size: 15px;
       color: black;
-      
       
     }
   .topnav {
@@ -43,9 +43,6 @@
       width:35%;
       margin:2px;
       float:left;
-      
- 
-      
     }
 img {
   width: 100%;
@@ -56,7 +53,7 @@ img {
     }
     p{
       font-size:20px;
-      border: 1px solid white;
+      border: 1px solid white:
     }
     div{
       text-align:center;
@@ -66,4 +63,10 @@ img {
       width:90%;
       max-width:1000px;
       margin:auto;
+}
+.jumbotron{
+  background-color:#e4b4e4
+}
+.well{
+  background-color:#e4b4e4;
 }
