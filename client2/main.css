@@ -40,7 +40,6 @@
     #pic{
       border: 2px solid black;
       max-width: 300px;
-      width:35%;
       margin:2px;
       float:left;
     }
@@ -60,12 +59,12 @@ img {
     }
 .content{
      background-color:#dda0dd;
-      width:90%;
-      max-width:1000px;
+      width:100%;
+      max-width:1200px;
       margin:auto;
 }
 .jumbotron{
-  background-color:#ebc7eb;
+  background-color:#e4b4e4;
   border-radius: 10px;
 }
 .well{
