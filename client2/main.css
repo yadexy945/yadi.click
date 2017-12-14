@@ -70,8 +70,10 @@ img {
       margin:auto;
 }
 .jumbotron{
-  background-color:#e4b4e4
+  background-color:#e4b4e4;
+  border-radius: 10px;
 }
 .well{
   background-color:#e4b4e4;
+  border-radius: 5px;
 }
