@@ -1,4 +1,9 @@
-   .header{
+html{
+  background-color: #dda0dd;
+}
+
+
+    .header{
       text-align:center;
       font-size:75px;
       color:black;
