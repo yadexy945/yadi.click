@@ -86,11 +86,13 @@ body, html{
 }
 
 .ptext .border{
-background-color: #111;
+  background-color: #111;
   color: white;
   padding: 20px;
+  
 }
 
+}
 .ptext .border.trans{
   background-color: transparent;
 }
