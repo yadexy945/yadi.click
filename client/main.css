@@ -19,28 +19,13 @@ body, html{
  background-attachment: fixed;
 }
 
-.icon-bar {
-    width: 100%; /* Full-width */
-    background-color: #555; /* Dark-grey background */
-    overflow: auto; /* Overflow due to float */
-}
+#nav{
+background-color: #f2f2f2;
 
-.icon-bar a {
-    float: left; /* Float links side by side */
-    text-align: center; /* Center-align text */
-    width: 20%; /* Equal width (5 icons with 20% width each = 100%) */
-    padding: 12px 0; /* Some top and bottom padding */
-    transition: all 0.3s ease; /* Add transition for hover effects */
-    color: white; /* White text color */
-    font-size: 36px; /* Increased font size */
-}
-
-.icon-bar a:hover {
-    background-color: #000; /* Add a hover color */
 }
 
 .active {
-    background-color: #4CAF50; /* Add an active/current color */
+    background-color: #4CAF50; 
 }
 
 .pimg1{
@@ -49,12 +34,12 @@ body, html{
 }
 
 .pimg2{
-  background-image:url("https://ak4.picdn.net/shutterstock/videos/23948944/thumb/1.jpg");
+  background-image:url("https://edge.alluremedia.com.au/m/l/2016/03/office.jpg");
   min-height: 400px;
 }
 
 .pimg3{
-  background-image:url("https://cmeimg-a.akamaihd.net/640/ppds/5385c58b-8241-45b1-b1d6-8552b266af0b.jpg");
+  background-image:url("https://ak4.picdn.net/shutterstock/videos/23948944/thumb/1.jpg");
   min-height: 400px;
 }
 
@@ -83,16 +68,16 @@ body, html{
   font-size: 27px;
   letter-spacing: 8px;
   text-transform: uppercase;
+   line-height: 100px;
 }
 
 .ptext .border{
   background-color: #111;
   color: white;
   padding: 20px;
-  
-}
 
 }
+
 .ptext .border.trans{
   background-color: transparent;
 }
