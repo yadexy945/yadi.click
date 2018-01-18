@@ -19,11 +19,6 @@ body, html{
  background-attachment: fixed;
 }
 
-#nav{
-background-color: #f2f2f2;
-
-}
-
 .active {
     background-color: #4CAF50; 
 }
@@ -81,6 +76,8 @@ background-color: #f2f2f2;
 .ptext .border.trans{
   background-color: transparent;
 }
+
+
 @media(max-width:560px){
   .pimg1, .pimg2, .pimg3{
     background-attachment: scroll;
